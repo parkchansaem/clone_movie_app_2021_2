@@ -1,0 +1,35 @@
+.detail_component{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:50px;
+    border: 1px solid rgba(0,0,0,0.4);
+    box-sizing: border-box;
+    margin:200px 100px;
+   
+}
+.detail_component_title{
+    padding:20px;
+}
+.detail_component_year{
+    padding:20px;
+}
+.detail_component_summary{
+    padding:20px;
+}
+.detail_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    
+}
+.detail_loader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-weight: 400;
+    font-size: 100px;
+    width: 100%;
+}
